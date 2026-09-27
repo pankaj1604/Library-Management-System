@@ -41,6 +41,6 @@ GET: Get all issued books with their fine amount
     >> Standard (6 months)
     >> Premium (12 months)
 
->> If a user misses the renewal date, then user should be collected with 100 rs.
->> If a user misses his subscription, then user is expected to pay 100 rs.
->> if a user misses both renewal & subscripton, then the collected amount should be 200 rs.
+1. If a user misses the renewal date, then user should be collected with 100 rs.
+2. If a user misses his subscription, then user is expected to pay 100 rs.
+3. if a user misses both renewal & subscripton, then the collected amount should be 200 rs.
