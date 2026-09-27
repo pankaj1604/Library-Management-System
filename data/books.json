@@ -1,0 +1,44 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "name": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "genre": "Fiction",
+            "price": 299,
+            "publisher": "Scribner"
+        },
+        {
+            "id": 2,
+            "name": "1984",
+            "author": "George Orwell",
+            "genre": "Dystopian",
+            "price": 249,
+            "publisher": "Penguin Books"
+        },
+        {
+            "id": 3,
+            "name": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "genre": "Fiction",
+            "price": 349,
+            "publisher": "HarperCollins"
+        },
+        {
+            "id": 4,
+            "name": "The Alchemist",
+            "author": "Paulo Coelho",
+            "genre": "Adventure",
+            "price": 279,
+            "publisher": "HarperOne"
+        },
+        {
+            "id": 5,
+            "name": "Atomic Habits",
+            "author": "James Clear",
+            "genre": "Self-Help",
+            "price": 499,
+            "publisher": "Avery"
+        }
+    ]
+}
